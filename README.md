@@ -1,72 +1,32 @@
-## 안녕하십니까! 👋
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&text=juntae's%20github&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 신입 백엔드 개발자 장준태입니다! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 백엔드 개발자입니다. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.notion.so/17866edcda148002803df821b84acb57> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/17866edcda148002803df821b84acb57"> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjuntae%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jangjuntae&custom_title=jangjuntae's Github Stat&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjuntae&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
