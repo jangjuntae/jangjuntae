@@ -3,11 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 신입 백엔드 개발자 장준태입니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 백엔드 개발자입니다. </div> 
     </div>
-    </div>  <br> <div align= "center">
-    [![Solved.ac Profile](https://mazandi.herokuapp.com/api/v2/generate_badge?boj=juntae0629)](https://solved.ac/juntae0629/)</a></div> 
-          </div>  <br> 
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juntae0629" width=40% />
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
