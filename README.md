@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&text=juntae's%20github&animation=scaleIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 신입 백엔드 개발자 장준태입니다! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 개발자 장준태입니다! </h2>  
     </div>
 <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juntae0629" width=40% />
